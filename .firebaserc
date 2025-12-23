@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "emp-payroll-5088d",
+    "staging": "emp-payroll-5088d"
+  },
+  "targets": {},
+  "etags": {}
+}
